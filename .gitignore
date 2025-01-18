@@ -51,8 +51,3 @@ Module.symvers
 Mkfile.old
 dkms.conf
 /.metadata
-/.metadata/.plugins/org.eclipse.e4.workbench
-/.metadata
-/.metadata
-/.metadata/.plugins/org.eclipse.e4.workbench
-/.metadata
